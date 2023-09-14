@@ -1,6 +1,6 @@
-# Broadcasting NumPy Arrays
+#
 
-## 1: Intro
+## 1: 
 ```python
 ```
 
